@@ -1,6 +1,6 @@
 # awesome-pirate
 some links that i use for torrent and stremming (Anime / Movies / Tv Shows / games / etc ..)
-(feel freee to edit)
+(**feel freee to edit**)
 ## Torrent 
 
 ------------
