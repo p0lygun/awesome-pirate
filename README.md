@@ -9,7 +9,7 @@ some links that i use for torrent and stremming (Anime / Movies / Tv Shows / gam
 -  ### General torrent providers (they provide almost everything)
 	- [torrentgalaxy](https://torrentgalaxy.to) [Proxy list](https://proxygalaxy.pw/)
 	- [The Pirate Bay](https://www.tbp-mirror.com/) use this own ur own risk there are a lot to fake mirrors out there (could not find a good proxy list)
-	- [rarbg]() i think its gone  [Proxy List]()
+	- ~~[rarbg](#)~~ (**i think its gone**) ~~[Proxy List](#)~~
 - ### Anime 
 	- #### Torrent
 		- [nyaa](nyaa.si) The best IMO 
